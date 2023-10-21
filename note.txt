@@ -1,0 +1,20 @@
+*{
+    colors: primary > 0f1c4d
+    secondary > 00f4f9
+    text > white
+}
+
+Landing Page{
+    HOME{
+        para abt muslim voice
+        learn more 
+        submit
+    }
+    timeline{
+        animate via scrollMagic, gsap, tweenmax and indicators.js
+        start date, first round ad, nasheed night, finiasit announced, muslim voice 2021 finaly
+    }
+    rules
+    media
+}
+
